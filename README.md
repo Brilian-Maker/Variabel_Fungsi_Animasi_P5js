@@ -9,7 +9,7 @@
 
 |  |  |  |
 |--|--|--|
-|*No| **Fitur* | *Detail* |
+|*No| *Nama FIle*| *Link* |
 | 1 | Animation | https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/Animation.png |
 | 2 |  Bounce Ball | https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/BounceBall.png |
 | 3 |  Variabel Let Lingkaran  | https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/LebarCircle.png |
