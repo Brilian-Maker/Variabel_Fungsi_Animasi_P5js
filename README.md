@@ -7,10 +7,12 @@
 
 # SCREENSHOT PROGRAM
 
-|  |  |  |
-|--|--|--|
-|*No| *Nama FIle*| *Link* |
-| 1 | Animation | [https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/Animation.png](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/Animation.png?raw=true) |
-| 2 |  Bounce Ball | [https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/BounceBall.png](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/BounceBall.png?raw=true) |
-| 3 |  Variabel Let Lingkaran  | [https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/LebarCircle.png](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/LebarCircle.png?raw=true) |
-| 4 |  Function Lingkaran |  [https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/FuncCircle.png](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/FuncCircle.png?raw=true) |
+Animation
+Bounce Ball
+Variabel Let Lingkaran
+Function Lingkaran
+
+![Animation](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/Animation.png)
+![Bounce Ball](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/BounceBall.png)
+![Variabel Let Lingkaran](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/LebarCircle.png)
+![Function Linkaran](https://github.com/Brilian-Maker/Variabel_Fungsi_Animasi_P5js/blob/main/FuncCircle.png)
